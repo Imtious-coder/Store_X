@@ -111,7 +111,7 @@
     text-align: center;
     align-items: center;
     justify-content: center;
-    background-image: url(/Images/MainViewImage.png);
+    background-image: url(../Images/MainViewImage.png);
     background-repeat: no-repeat;
 }
 
@@ -225,22 +225,22 @@
 
 .Categories--Card3 {
     height: 170px;
-    background-image: url(/Images/Orange\ Juice.png);
+    background-image: url(../Images/Orange\ Juice.png);
 }
 
 .Categories--Card4 {
     height: 170px;
-    background-image: url(/Images/Special\ Apple.png);
+    background-image: url(../Images/Special\ Apple.png);
 }
 
 .Categories--Card5 {
     height: 170px;
-    background-image: url(/Images/Vegetables.png);
+    background-image: url(../Images/Vegetables.png);
 }
 
 .Categories--Card6 {
     height: 170px;
-    background-image: url(/Images/Strawberries.png);
+    background-image: url(../Images/Strawberries.png);
 }
 
 .Categories--CardTitle {
