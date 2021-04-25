@@ -111,7 +111,7 @@
     text-align: center;
     align-items: center;
     justify-content: center;
-    background-image: url(Images/MainViewImage.png);
+    background-image: url(../Images/MainViewImage.png);
     background-repeat: no-repeat;
 }
 
