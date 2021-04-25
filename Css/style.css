@@ -99,10 +99,10 @@
 }
 
 
-/* Navbar ends here */
+/* Navbar ends here... */
 
 
-/* Main View starts here.. */
+/* Main View starts here... */
 
 #MainView {
     width: 100%;
@@ -156,7 +156,7 @@
 /* Main View ends here.. */
 
 
-/* Advantages starts */
+/* Advantages starts here... */
 
 .Advantages--IMG {
     width: 73px;
@@ -184,12 +184,12 @@
 }
 
 
-/* Advantages ends */
+/* Advantages ends here... */
 
 
-/* Categories starts */
+/* Common classes */
 
-#Categories-Title {
+.Titles {
     padding: 0px;
     margin: 0px;
     font-size: 32px;
@@ -197,15 +197,21 @@
     font-family: 'Montserrat', sans-serif;
 }
 
-#Categories-Description {
+.Descriptions {
     padding: 0px;
     margin: 0px;
     color: #828282;
     font-size: 16px;
     font-weight: bold;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     font-family: 'Montserrat', sans-serif;
 }
+
+
+/* Common classes */
+
+
+/* Categories starts here... */
 
 .Categories--Card1 {
     height: 170px;
@@ -264,4 +270,31 @@
 }
 
 
-/* Categories ends */
+/* Categories ends here...*/
+
+
+/* Products starts here... */
+
+.Product--Images {
+    width: 119px;
+    height: 112px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.Products--Rating {
+    color: #FFA208;
+    padding-bottom: 5px;
+    font-size: 16;
+}
+
+.Product--Title {
+    font-size: 16px;
+    margin-bottom: 5px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+/* Products ends here... */
