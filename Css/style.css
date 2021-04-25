@@ -107,6 +107,50 @@
 #MainView {
     width: 100%;
     height: 600px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
     background-image: url(../Images/MainViewImage.png);
     background-repeat: no-repeat;
 }
+
+#MainView--Title {
+    font-size: 28px;
+    color: white;
+    font-weight: bolder;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#MainView--Main {
+    font-size: 72px;
+    color: white;
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#MainView--Description {
+    font-size: 20px;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#MainView--Button {
+    padding: 10px 20px 10px 20px;
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    border-radius: 25px;
+    outline: none;
+    border: none;
+    background-color: #338814;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+/* Main View ends here.. */
