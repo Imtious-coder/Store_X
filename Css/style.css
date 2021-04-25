@@ -215,32 +215,32 @@
 
 .Categories--Card1 {
     height: 170px;
-    background-image: url(Images/Malta\ Slices.png);
+    background-image: url(/Images/Malta\ Slices.png);
 }
 
 .Categories--Card2 {
     height: 170px;
-    background-image: url(Images/Mixed\ Food.png);
+    background-image: url(/Images/Mixed\ Food.png);
 }
 
 .Categories--Card3 {
     height: 170px;
-    background-image: url(Images/Orange\ Juice.png);
+    background-image: url(/Images/Orange\ Juice.png);
 }
 
 .Categories--Card4 {
     height: 170px;
-    background-image: url(Images/Special\ Apple.png);
+    background-image: url(/Images/Special\ Apple.png);
 }
 
 .Categories--Card5 {
     height: 170px;
-    background-image: url(Images/Vegetables.png);
+    background-image: url(/Images/Vegetables.png);
 }
 
 .Categories--Card6 {
     height: 170px;
-    background-image: url(Images/Strawberries.png);
+    background-image: url(/Images/Strawberries.png);
 }
 
 .Categories--CardTitle {
