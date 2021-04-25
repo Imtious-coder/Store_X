@@ -8,6 +8,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Title -->
     <title>Store X</title>
+    <!-- Google fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;700&display=swap" rel="stylesheet">
 
     <!-- Css... -->
     <!-- Custom css(Stylesheet) -->
@@ -19,44 +22,47 @@
 </head>
 
 <body>
-
-    <nav class="container">
+    <!-- Navbar starts here... -->
+    <nav class="container mt-2 mb-2">
         <div class="row">
             <div class="col-md-1 d-flex justify-content-center">
-                <i class="fas fa-bars"></i>
-                <p>Category</p>
-                <i class="fas fa-angle-down"></i>
+                <i class="fas fa-bars NavIcon1"></i>&nbsp;
+                <p class="Nav--Category"> Category </p>&nbsp;
+                <i class="fas fa-angle-down NavIcon2"></i>
+            </div>
+            <div class="col-md-1 d-flex justify-content-center Navigations">
+                <p class="Nav--Navigations">NEW ARRIVAL</p>
             </div>
             <div class="col-md-1 d-flex justify-content-center">
-                <p>NEW ARRIVAL</p>
+                <p class="Nav--Navigations">TODAYS DEALS</p>
             </div>
             <div class="col-md-1 d-flex justify-content-center">
-                <p>TODAY'S DEALS</p>
-            </div>
-            <div class="col-md-1 d-flex justify-content-center">
-                <p>FLASH SALES</p>
+                <p class="Nav--Navigations">FLASH SALES</p>
             </div>
             <div class="col-md-4 d-flex justify-content-center">
-                <p>STORE <span>X</span></p>
+                <p class="Nav--Store">STORE <span class="Nav--X">X</span></p>
             </div>
-            <div class="col-md-1 ms-auto d-flex justify-content-center">
+            <div class="col-md-1 ms-auto d-flex justify-content-center Nav--SearchIcon">
                 <i class="fas fa-search"></i>
             </div>
-            <div class="col-md-1 d-flex justify-content-center">
-                <i class="fas fa-shopping-basket"></i>
-                <div>0</div>
+            <div class="col-md-1 d-flex justify-content-center Nav--CartIcon">
+                <i class="fas fa-shopping-basket Nav--Cart"></i>
+                <div class="Nav--CartNumber">0</div>
             </div>
         </div>
     </nav>
+    <!-- Navbar ends here... -->
 
     <main>
-        <section>
+        <!-- Main View starts here.. -->
+        <section id="MainView">
             <div class="container text-center">
                 <p>Natural Health</p>
                 <p>Organic Food</p>
                 <p>The UK’s largest fully certified organic supermarket, Organic food delivery across the UK and Europe.</p>
             </div>
         </section>
+        <!-- Main View ends here... -->
 
         <section>
             <div class="container">
