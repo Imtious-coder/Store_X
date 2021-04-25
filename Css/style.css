@@ -111,7 +111,7 @@
     text-align: center;
     align-items: center;
     justify-content: center;
-    background-image: url(../Images/MainViewImage.png);
+    background-image: url(/Images/MainViewImage.png);
     background-repeat: no-repeat;
 }
 
@@ -215,7 +215,7 @@
 
 .Categories--Card1 {
     height: 170px;
-    background-image: url(/Images/Malta.png);
+    background-image: url(../Images/Malta.png);
 }
 
 .Categories--Card2 {
