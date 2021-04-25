@@ -2,7 +2,7 @@
 
 ## Live Preview (https://imtious-coder.github.io/Store_X/)
 
-#### This is a simple website (PSD to HTM)
+#### This is a simple website (PSD to HTML)
 
 #### Language and tools used
 
