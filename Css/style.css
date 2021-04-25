@@ -154,3 +154,27 @@
 
 
 /* Main View ends here.. */
+
+.Advantages--IMG {
+    width: 73px;
+    height: 66px;
+    margin: 50px auto 30px auto;
+}
+
+.Advantages--Title {
+    padding: 0px;
+    margin: 0px;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.Advantages--Description {
+    padding: 0px;
+    margin: 0px;
+    font-size: 14px;
+    color: white;
+    margin-bottom: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
